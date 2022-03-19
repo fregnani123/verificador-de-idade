@@ -1,0 +1,10 @@
+body {background-color: rgb(62, 62, 211);}
+
+header {text-align: center; font: 50px;color: white;}
+
+section {margin:auto;background-color: white;width: 400px;border-radius: 10px; font: normal 15pt arial;  }
+
+div {padding: 5px;display: inline-block;}
+
+footer {text-align: center;font: normal 10pt arial;color: white;}
+
